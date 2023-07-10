@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffdennings
 - 👀 I’m interested in React and NextJS
-- 🌱 I’m currently learning React and NextJS
+- 🌱 I’m currently coding using React, NextJS and node.js
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ...
 
