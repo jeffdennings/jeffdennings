@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffdennings
 - 👀 I’m interested in React and NextJS
-- 🌱 I’m currently coding using React, NextJS and node.js
+- 🌱 I’m currently coding using React, NextJS and node.js. I use Tailwindcss, MaterialUI, Firebase and Vercel. 
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ...
 
